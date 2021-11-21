@@ -54,8 +54,14 @@ More: https://wowwiki-archive.fandom.com/wiki/Gilded_Rose
 
 ![58851-sulfuras-hand-of-ragnaros](img/58851-sulfuras-hand-of-ragnaros.jpg)
 
+**Innkeeper Allison**
+
+![889397-innkeeper-allison](img/889397-innkeeper-allison.jpg)
+
 **Conjured Item**
 
 An [item](https://wowwiki-archive.fandom.com/wiki/Item) is **conjured** when it is created by an [ability](https://wowwiki-archive.fandom.com/wiki/Ability), [power](https://wowwiki-archive.fandom.com/wiki/Power) or [spell](https://wowwiki-archive.fandom.com/wiki/Spell). Conjured items function like normal items during play, but they disappear when the character logs out (or gets disconnected) for 15 minutes or more. Conjured items cannot be sold on the auction house nor to a vendor, although some can be traded to another character, and you could charge money for the conjured item in the trade.: https://wowwiki-archive.fandom.com/wiki/Conjured_item
+
+More: https://wowwiki-archive.fandom.com/wiki/Conjured_item
 
 **Goblin**![Goblin](img/Goblin.png)
